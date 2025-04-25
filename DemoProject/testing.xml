@@ -1,0 +1,9 @@
+<suite name = "myTestSuite">
+<test name = "myTest">
+<classes>
+<class name = "testscript.LoginTest"></class>
+
+
+</classes>
+</test>
+</suite>
